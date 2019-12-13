@@ -10,5 +10,8 @@ public void computerModel() {
 	System.out.println("conflicts number three at arun branch");
 	System.out.println("second line of conflict number three");
 	System.out.println("third line of conflict number three");
+	System.out.println("hello google");
+	System.out.println("google please change");
+	System.out.println("google turn off");
 }
 }
